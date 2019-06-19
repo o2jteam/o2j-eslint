@@ -36,4 +36,6 @@ vue create project-name
 ### webstorm
 #### 1.
 
-### 2.vscode
+#### 2.
+
+### vscode
