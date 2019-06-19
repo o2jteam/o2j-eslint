@@ -7,18 +7,18 @@
 
 ## vue 
 
-### 1.安装vue-cli 3.0
+#### 1.安装vue-cli 3.0
 ```
 npm install -g @vue/cli
 # or
 yarn global add @vue/cli
 ```
 
-### 2.创建项目
+#### 2.创建项目
 ```
 vue create project-name
 ```
-### 3.选择启用Eslint
+#### 3.选择启用Eslint
 ```
 ? Please pick a preset: Manually select features
 ? Check the features needed for your project: Router, Vuex, CSS Pre-processors, Linter, Unit
@@ -29,7 +29,7 @@ vue create project-name
 > ESLint + Standard config
   ESLint + Prettier
 ```
-### 4.替换.eslintrc.js文件
+#### 4.替换.eslintrc.js文件
 ## react
 
 ## editTool
