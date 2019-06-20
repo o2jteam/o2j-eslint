@@ -24,8 +24,6 @@ npm run build
 #### 1.安装vue-cli 3.0
 ```
 npm install -g @vue/cli
-# or
-yarn global add @vue/cli
 ```
 
 #### 2.创建项目
