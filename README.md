@@ -29,13 +29,18 @@ vue create project-name
 > ESLint + Standard config
   ESLint + Prettier
 ```
-#### 4.替换.eslintrc.js文件
+#### 4..eslintrc.js
+替换.eslintrc.js文件
 ## react
 
 ## editTool
 ### webstorm
-#### 1.
-
-#### 2.
-
+#### 1.选择file->Settings
+![setting](https://i.imgur.com/VB9NQE5.png)
+#### 2.选择Languages->Code Quality->Eslint
+选择`Manual Eslint configuration`选项；`Node interpreter`选择`node`程序所在路径；选择`Configuration file`配置`Eslint`规则。
+![配置eslint](https://i.imgur.com/u1ktLEZ.png)
+#### 3.应用
+选择你要进行格式化规范的代码文件，点击右键选择`Fix Eslint Problems`进行代码检测修复
+![代码修复](https://i.imgur.com/yu5WYXh.png)
 ### vscode
