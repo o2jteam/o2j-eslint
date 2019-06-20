@@ -5,6 +5,20 @@
 
 [o2jteam](https://o2jteam.github.io/)前端团队代码规范v 1.0
 
+`.eslintrc.js`：eslint规则配置文件
+`.eslintignore`：eslint忽略检查配置文件
+
+
+## js使用eslint检查
+#### 1.初始化项目
+```
+npm install
+```
+#### 2.将js文件放入src目录下运行
+```$xslt
+npm run build
+```
+
 ## vue 
 
 #### 1.安装vue-cli 3.0
@@ -29,12 +43,11 @@ vue create project-name
 > ESLint + Standard config
   ESLint + Prettier
 ```
-#### 4..eslintrc.js
+#### 4.选择/vue下的.eslintrc.js
 替换.eslintrc.js文件
-## react
 
 ## editTool
-### webstorm
+### webstorm(js&vue)
 #### 1.选择file->Settings
 ![setting](https://i.imgur.com/VB9NQE5.png)
 #### 2.选择Languages->Code Quality->Eslint
@@ -43,4 +56,4 @@ vue create project-name
 #### 3.应用
 选择你要进行格式化规范的代码文件，点击右键选择`Fix Eslint Problems`进行代码检测修复
 ![代码修复](https://i.imgur.com/yu5WYXh.png)
-### vscode
+
