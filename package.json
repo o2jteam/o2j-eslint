@@ -1,0 +1,25 @@
+{
+  "name": "o2jteam-eslint",
+  "version": "1.0.0",
+  "description": "o2jteam前端代码规范",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o2jteam/o2j-eslint.git"
+  },
+  "keywords": [
+    "o2jteam"
+  ],
+  "author": "o2jteam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o2jteam/o2j-eslint/issues"
+  },
+  "homepage": "https://github.com/o2jteam/o2j-eslint#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
